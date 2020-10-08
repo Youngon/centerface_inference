@@ -1,5 +1,5 @@
 # centerface_inference
-C++ verision of centerface inference code
+C++ version of centerface inference code
 
 original git is python version from https://github.com/Star-Clouds/centerface
 
